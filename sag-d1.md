@@ -1,7 +1,7 @@
-| title                                | draft      | author              |
-| ------------------------------------ | ---------- | ------------------- |
-| soulscapeartistguidelines1           | 1st        | lumiscape           |
-| [soulscapeartistguidelines2](/sag-d2.md) | 2nd        | lumiscape           |
+| title                                | draft      | author              | date |
+| ------------------------------------ | ---------- | ------------------- | ---- |
+| soulscapeartistguidelines1         | 1st        | lumiscape           | 3rd of January, 2023 |
+| [soulscapeartistguidelines2](/sag-d2.md) | 2nd        | lumiscape           | 3rd of January, 2023 |
 
 
 <h1 id="artist-guidelines">Artist Guidelines</h1>
