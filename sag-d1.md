@@ -1,9 +1,8 @@
----
-title: soulscapeartistguidelines1, [soulscapeartistguidelines1](sag-d2.md)
-draft: 1st, 2nd
-author: lumiscape, lumiscape
+| title                                | draft      | author              |
+| ------------------------------------ | ---------- | ------------------- |
+| soulscapeartistguidelines1           | 1st        | lumiscape           |
+| [soulscapeartistguidelines2](/sag-d2.md) | 2nd        | lumiscape           |
 
----
 
 <h1 id="artist-guidelines">Artist Guidelines</h1>
 <p><strong>Some information every Soulscape Artists (or every artists in general) must know</strong></p>
