@@ -1,5 +1,6 @@
 ---
 title: soulscapeartistguidelines1
+draft: 1
 author: lumiscape
 
 ---
