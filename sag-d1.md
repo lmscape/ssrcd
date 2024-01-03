@@ -1,7 +1,7 @@
 ---
-title: soulscapeartistguidelines1
-draft: 1
-author: lumiscape
+title: soulscapeartistguidelines1, [soulscapeartistguidelines1](sag-d2.md)
+draft: 1st, 2nd
+author: lumiscape, lumiscape
 
 ---
 
